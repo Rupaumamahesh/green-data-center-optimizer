@@ -1,0 +1,16 @@
+scenario,metric,baseline,optimized,difference
+A,avg_latency_ms,5.79,5.79,-0.0
+A,avg_packet_loss_pct,0.0,0.0,0.0
+A,max_utilization_pct,49.69,49.69,0.0
+A,avg_throughput_mbps,341.12,341.12,0.0
+A,avg_power_w,8.41,8.41,0.0
+B,avg_latency_ms,19.45,13.0,-6.45
+B,avg_packet_loss_pct,1.07,0.0,-1.07
+B,max_utilization_pct,97.95,70.0,-27.95
+B,avg_throughput_mbps,462.55,472.44,9.89
+B,avg_power_w,9.72,9.72,0.0
+C,avg_latency_ms,12.61,12.61,0.0
+C,avg_packet_loss_pct,0.0,0.0,0.0
+C,max_utilization_pct,74.36,74.36,0.0
+C,avg_throughput_mbps,444.48,444.48,0.0
+C,avg_power_w,9.45,9.44,-0.0
